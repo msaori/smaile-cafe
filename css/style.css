@@ -97,7 +97,7 @@ img {
 /* HOME
 ------------------------------*/
 #home {
-    background-image: url(images/main-bg.jpg);
+    background-image: url(/images/main-bg.jpg);
     min-height: 100vh;
     background-blend-mode: luminosity;
 }
@@ -119,7 +119,7 @@ img {
 /* NEWS
 ------------------------------*/
 #news {
-    background-image: url(images/news-bg.jpg);
+    background-image: url(/images/news-bg.jpg);
     height: 270px;
     margin-bottom: 40px;
     color: #fff;
@@ -271,7 +271,7 @@ aside p {
 /* CONTACT
 ------------------------------*/
 #contact {
-    background-image: url(images/contact-bg.png);
+    background-image: url(/images/contact-bg.png);
 }
 
 /* フォーム
