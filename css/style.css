@@ -101,6 +101,7 @@ img {
     min-height: 100vh;
     background-blend-mode: luminosity;
     font-weight: bold;
+    opacity: 0.9;
 }
 
 #home .page-title {
